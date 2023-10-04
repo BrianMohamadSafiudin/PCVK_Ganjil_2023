@@ -10,4 +10,4 @@
 |Week 02         |`'Dasar DIP dan Format Citra'`   |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week2.ipynb                         
 |Week 03         |`'Linier, Inverse, Grayscale'`   |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week3.ipynb                             
 |Week 05         |`'Gamma Correction'`             |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week5.ipynb                              
-|Week 06         |                                 |                             
+|Week 06         |`'Histogram dan Dithering'`      |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week6.ipynb                             
