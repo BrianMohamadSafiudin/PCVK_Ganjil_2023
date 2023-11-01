@@ -13,3 +13,4 @@
 |Week 06         |`'Histogram dan Dithering'`      |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week6.ipynb                             
 |Week 07         |`'Filter Spasial'`               |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week7.ipynb    
 |Week 08         |`'Morfologi'`                    |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week8.ipynb    
+|Week 10         |`'Global Thresholding'`          |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week10.ipynb   
