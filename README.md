@@ -16,3 +16,4 @@
 |Week 10         |`'Global Thresholding'`          |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week10.ipynb   
 |Week 11         |`'Object Detection'`             |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week11.ipynb   
 |Week 12         |`'Face Detection'`               |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Week12.ipynb   
+|Kuis 2          |`'Preprocessing and Detection'`  |https://github.com/BrianMohamadSafiudin/PCVK_Ganjil_2023/blob/main/Kuis2.ipynb
